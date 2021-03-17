@@ -4,25 +4,49 @@
                         "id": 1,
                         "title": "Task 1",
                         "description": "Description for Task 1",
-                        "location": "Valletta",
+                        "duration": "1 hour",
                         "date": "1st Jan",
-                        "time": "12:00"
+                        "time": "12:00pm"
                 },
                 {
                         "id": 2,
                         "title": "Task 2",
                         "description": "Description for Task 2",
-                        "location": "Valletta",
-                        "date": "1st Jan",
-                        "time": "12:00"
+                        "duration": "3 hours",
+                        "date": "21st Feb",
+                        "time": "03:11pm"
                 },
                 {
                         "id": 3,
                         "title": "Task 3",
                         "description": "Description for Task 3",
-                        "location": "Valletta",
-                        "date": "1st Jan",
-                        "time": "12:00"
+                        "duration": "6 hours",
+                        "date": "1st Mar",
+                        "time": "10:35am"
+                },
+                {
+                        "id": 4,
+                        "title": "Task 4",
+                        "description": "Description for Task 4",
+                        "duration": "4 hours",
+                        "date": "31st Mar",
+                        "time": "02:21pm"
+                },
+                {
+                        "id": 5,
+                        "title": "Task 5",
+                        "description": "Description for Task 5",
+                        "duration": "5 hours",
+                        "date": "6th Apr",
+                        "time": "09:32am"
+                },
+                {
+                        "id": 6,
+                        "title": "Task 6",
+                        "description": "Description for Task 6",
+                        "duration": "2 hours",
+                        "date": "8th May",
+                        "time": "01:23pm"
                 }
               ]
 }
